@@ -4,7 +4,7 @@
 
 ```yaml
 userIs: Xyhlo
-nick: Max
+nick: Max or Xy
 contact: Xyhlo#6969
 
 Xyhlo:
