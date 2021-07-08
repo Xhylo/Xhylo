@@ -1,5 +1,4 @@
 ### Xyhlo was here...
-![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
 
 <img align="right" alt="a" width="300px" height="300px" src="https://user-images.githubusercontent.com/77571950/120704295-18467380-c4bf-11eb-8502-c355042e20cd.png" />
 
@@ -16,3 +15,4 @@ What am I:
   - Web CTF
   - Discord bot dev for hire
   ```
+![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
