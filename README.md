@@ -1,5 +1,5 @@
 ### Xyhlo was here...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Xyhloo=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Xhylo=anuraghazra&theme=midnight-purple=true)
 
 <img align="right" alt="a" width="300px" height="300px" src="https://user-images.githubusercontent.com/77571950/120704295-18467380-c4bf-11eb-8502-c355042e20cd.png" />
 
