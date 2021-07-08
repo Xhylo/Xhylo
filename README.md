@@ -8,11 +8,12 @@ nick: Max or Xy
 contact: Xyhlo#9766
 
 Xyhlo:
-  - I have nothing to say... 
-  - I am a certified Discord gankster.
+  - I know 6 programming languges.
+  - Be afraid of my capabilities.
 What am I:
-  - Technical support
+- Technical support
   - Web CTF
   - Discord bot dev for hire
+  - BetterDiscord Theme Dev
   ```
 ![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
