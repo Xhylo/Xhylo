@@ -5,7 +5,7 @@
 ```yaml
 userIs: Xyhlo
 nick: Max or Xy
-contact: Xyhlo#4200
+contact: Xyhlo#9766
 
 Xyhlo:
   - I have nothing to say... 
