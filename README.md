@@ -14,6 +14,6 @@ What am I:
 - Technical support
   - Web CTF
   - Discord bot dev for hire
-  - BetterDiscord Theme Dev
+  - Theme dev
   ```
 ![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
