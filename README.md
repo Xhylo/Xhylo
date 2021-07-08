@@ -17,3 +17,4 @@ What am I:
   ```
 ![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xhylo&&langs_count=4)](https://github.com/Xhylo/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Xhylo=willianrod)](https://github.com/anuraghazra/github-readme-stats)
