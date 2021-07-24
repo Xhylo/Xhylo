@@ -1,6 +1,9 @@
 ### Xyhlo was here...
 
 <img align="right" alt="a" width="300px" height="300px" src="https://user-images.githubusercontent.com/77571950/120704295-18467380-c4bf-11eb-8502-c355042e20cd.png" />
+<div>
+    <img src="https://komarev.com/ghpvc/?username=Xhylo" alt="Profile Views Count">
+</div>
 
 ```yaml
 userIs: Xyhlo
