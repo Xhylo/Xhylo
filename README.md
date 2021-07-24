@@ -15,5 +15,6 @@ What am I:
   - Web CTF
   - Discord bot dev for hire
   - Theme dev
+  - Exploiter
   ```
 ![Xyhlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhylo&show_icons=true&theme=radical)
