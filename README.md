@@ -11,7 +11,7 @@ nick: Max or Xy
 contact: Xyhlo#9766
 
 Xyhlo:
-  - I know 6 programming languges.
+  - Boring man.
   - Noob programmer.
 What am I:
 - Technical support
