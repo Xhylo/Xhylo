@@ -12,7 +12,7 @@ contact: Xyhlo#9766
 
 Xyhlo:
   - I know 6 programming languges.
-  - Be afraid of my capabilities.
+  - Noob programmer.
 What am I:
 - Technical support
   - Web CTF
