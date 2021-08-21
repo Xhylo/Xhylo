@@ -109,7 +109,7 @@ const Xhylo = {
 
 <h3>Prefered Editor:</h3>
 <p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="15px">&nbsp; Visual Studio Code</p>
-
+My Discord support server, I'd be happy if you just joined it :) https://discord.gg/pcxqFDrxqP
 <!-- <br>
 <h3>🎧 Spotify Now Playing...</h3>
 <a href="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing?open" terget="_blank">
