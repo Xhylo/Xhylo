@@ -6,11 +6,11 @@
     <!--     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Xhylo?style=flat-square"> -->
 </a>
 
-<!-- <p><img src="https://metrics.lecoq.io/Xhylo" alt="taimoor-tariq" width="50%" /></p> -->
+<!-- <p><img src="https://metrics.lecoq.io/Xhylo" alt="Xhylo" width="50%" /></p> -->
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-tariq&theme=dark" alt="taimoor-tariq" width="50%" /></p> -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=taimoor-tariq&show_icons=true&?theme=dark&locale=en&count_private=true" alt="taimoor-tariq" /></p> -->
 <!-- <p><img src="https://readme-spotify.taimoor-tariq.vercel.app/api/spotify" alt="taimoor-tariq" width="50%" /></p> -->
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" /></p> -->
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xhylo&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" /></p> -->
 
 <a href="#">
     <table width="100%">
