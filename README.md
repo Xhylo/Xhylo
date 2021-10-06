@@ -1,5 +1,49 @@
-<h1>Hi 👋, I'm Xyhlo</h1>
-<h3>Front end Programmer and Web Dev</h3>
+### Hi there, Xyhlo 👋
+
+## About me
+I'm a Theme Developer for client modification app Discord
+
+BetterDiscord: https://betterdiscord.app/
+
+PowerCord: https://powercord.dev/
+<br />
+
+I really enjoy making pointless things, including tools, games and a lot of themes/plugins and other fun stuff ;)
+<br />
+
+My webpage is <a target="_blank" rel="noopener noreferrer" href="https://xhylo.github.io/">https://xhylo.github.io/</a>
+<br />
+
+My BetterDiscord page is <a target="_blank" rel="noopener noreferrer" href="https://betterdiscord.app/developer/Xhylo">https://betterdiscord.app/developer/Xhylo</a>
+<br />
+<details>
+  <summary>Languages I mainly use</summary>
+<!--START_SECTION:LanguagesandTools-->
+    <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+    <img align="left" alt="HTML5" width="32px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+    <img align="left" alt="CSS3" width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pug_icon_130225.png" />
+    <img align="left" alt="Sass" width="32px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+<!--END_SECTION:LanguagesandTools-->
+</details>
+<br />
+<details>
+  <summary>Tools I use</summary>
+<!--START_SECTION:LanguagesandTools-->
+    <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />>
+    <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    <img align="left" alt="Git" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
+    <img align="left" alt="GitHub" width="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png" />
+    <img align="left" alt="Terminal" width="32px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png" />
+    <img align="left" alt="Git" width="32px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png" />
+    <img align="left" alt="GitHub" width="32px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" />
+    <img align="left" alt="Terminal" width="32px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" />
+<!--END_SECTION:LanguagesandTools-->
+</details>
+<br />
 
 <a href="#">
     <img alt="Xhylo" src="https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs" />
@@ -53,7 +97,8 @@ const Xhylo = {
 }
 ```
 -->
-
+ <!--
+```css
 <h2>✨ Skills and Tools:</h2>
 <ul>
     <li><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="15px">&nbsp; HTML</li>
@@ -108,27 +153,4 @@ const Xhylo = {
     <img width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png">
 </a> -->
 
-<h3>Prefered Editor:</h3>
-<p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="15px">&nbsp; Visual Studio Code</p>
-My Discord support server, I'd be happy if you just joined it :) https://discord.gg/pcxqFDrxqP
-<!-- <br>
-<h3>🎧 Spotify Now Playing...</h3>
-<a href="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing?open" terget="_blank">
-    <img src="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a> -->
 
-
-<!-- <a href="#">
-    <table width="100%">
-        <tr>
-            <td>
-                <h3>🎧 Spotify Now Playing...</h3>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://readme-spotify.taimoor-tariq.vercel.app/api/spotify" alt="taimoor-tariq" width="100%" />
-            </td>
-        </tr>
-    </table>
-</a> -->
