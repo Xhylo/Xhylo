@@ -6,6 +6,8 @@ I'm a Theme Developer for client modification app Discord
 BetterDiscord: https://betterdiscord.app/
 
 PowerCord: https://powercord.dev/
+
+https://www.instagram.com/maxyiiiss/
 <br />
 
 I really enjoy making pointless things, including tools, games and a lot of themes/plugins and other fun stuff ;)
