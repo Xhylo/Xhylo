@@ -7,7 +7,7 @@ BetterDiscord: https://betterdiscord.app/
 
 PowerCord: https://powercord.dev/
 
-My Instagram: https://www.instagram.com/maxyiiiss/
+## My Instagram: https://www.instagram.com/maxyiiiss/
 <br />
 
 I really enjoy making pointless things, including tools, games and a lot of themes/plugins and other fun stuff ;)
