@@ -3,11 +3,9 @@
 ## About me
 I'm a Theme Developer for client modification app Discord
 
-BetterDiscord: https://betterdiscord.app/
+✖️BetterDiscord: https://betterdiscord.app/✖️
 
 PowerCord: https://powercord.dev/
-
-## My Instagram: https://www.instagram.com/maxyiiiss/
 <br />
 
 I really enjoy making pointless things, including tools, games and a lot of themes/plugins and other fun stuff ;)
@@ -16,7 +14,7 @@ I really enjoy making pointless things, including tools, games and a lot of them
 My webpage is <a target="_blank" rel="noopener noreferrer" href="https://xhylo.github.io/">https://xhylo.github.io/</a>
 <br />
 
-My BetterDiscord page is <a target="_blank" rel="noopener noreferrer" href="https://betterdiscord.app/developer/Xhylo">https://betterdiscord.app/developer/Xhylo</a>
+✖️My BetterDiscord page is <a target="_blank" rel="noopener noreferrer" href="https://betterdiscord.app/developer/Xhylo">https://betterdiscord.app/developer/Xhylo✖️</a>
 <br />
 <details>
   <summary>Languages I mainly use</summary>
