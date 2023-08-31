@@ -60,7 +60,6 @@ My webpage is <a target="_blank" rel="noopener noreferrer" href="-undisclosed-">
     <table width="100%">
         <tr>
             <td width="50%">
-                <img src="https://metrics.lecoq.io/Xhylo" alt="taimoor-tariq" width="100%" />
             </td>
             <td width="50%">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xhylo&show_icons=true&theme=dark&locale=en&layout=compact" alt="Xhylo" width="100%" />
