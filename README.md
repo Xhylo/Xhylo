@@ -11,7 +11,7 @@ PowerCord: https://powercord.dev/
 I really enjoy making pointless things, including tools, games and a lot of themes/plugins and other fun stuff ;)
 <br />
 
-My webpage is <a target="_blank" rel="noopener noreferrer" href="https://xhylo.github.io/">https://xhylo.github.io/</a>
+My webpage is <a target="_blank" rel="noopener noreferrer" href="-undisclosed-">-Undisclosed-</a>
 <br />
 
 ✖️My BetterDiscord page is <a target="_blank" rel="noopener noreferrer" href="https://betterdiscord.app/developer/Xhylo">https://betterdiscord.app/developer/Xhylo✖️</a>
